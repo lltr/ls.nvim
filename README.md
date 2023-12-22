@@ -11,6 +11,11 @@ Clone ls.nvim:
 git clone https://github.com/lltr/ls.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
+- on Linux for fish
+```fish
+git clone https://github.com/lltr/ls.nvim "$HOME/.config"/nvim
+```
+
 - on Windows (cmd)
 ```
 git clone https://github.com/lltr/ls.nvim %userprofile%\AppData\Local\nvim\ 
